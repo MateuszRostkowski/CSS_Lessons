@@ -18,4 +18,5 @@ External stylesheet
 
 `<link rel="stylesheet" href="./main.css">`
 
+External stylesheets are very powerfull, quickier and easier. For most cases external stylesheets are the first choices.
 
