@@ -14,4 +14,8 @@ Declaration contain properties and values
 &ensp;&ensp;&ensp;`color: red;`<br>
 `}`
 
+External stylesheet
+
+`<link rel="stylesheet" href="./main.css">`
+
 
